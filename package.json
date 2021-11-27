@@ -1,0 +1,27 @@
+{
+  "name": "gamesapi",
+  "version": "1.0.0",
+  "description": "CA1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valeria-CPaz/BEWD_CA1_21214.git"
+  },
+  "keywords": [
+    "games"
+  ],
+  "author": "Valeria Paz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valeria-CPaz/BEWD_CA1_21214/issues"
+  },
+  "homepage": "https://github.com/Valeria-CPaz/BEWD_CA1_21214#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13"
+  }
+}
